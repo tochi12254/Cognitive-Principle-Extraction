@@ -3,4 +3,5 @@
 envs/__pycache__/
 tests/__pycache__/
 specialists/world_model/__pycache__
+integration/__pycache__/
 .pytest_cache/

@@ -60,7 +60,7 @@ class TrajectoryGenerator:
         obs_noise_std: float = 0.05,
         dt: float = 0.01,
         rho_normal: float = 28.0,
-        rho_shifted: float = 0.5,
+        rho_shifted: float = 60.0,
         seed: int = 0,
     ):
         self.obs_dim = obs_dim
